@@ -1,0 +1,610 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "name": "AirFlex Running Shoes",
+            "brand": "NexaSport",
+            "price": 129.99,
+            "color": ["Black", "Gray", "Red"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+            "gender": "Men",
+            "type": "Running Shoes",
+            "rating": 4.7,
+            "review": 248,
+            "bestFor": ["Jogging", "Track Running"],
+            "features": [
+                "Breathable mesh upper",
+                "Cushioned sole for impact absorption",
+                "Responsive foam midsole",
+                "Durable rubber outsole",
+                "Reflective accents",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "FlexStride Walking Shoes",
+            "brand": "WalkEasy",
+            "price": 79.99,
+            "color": ["White", "Navy", "Teal"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Walking Shoes",
+            "rating": 4.6,
+            "review": 312,
+            "bestFor": ["Casual Walks", "Light Exercise"],
+            "features": [
+                "Knit fabric upper for flexibility",
+                "Memory foam insole for comfort",
+                "Lightweight EVA midsole",
+                "Non-slip rubber sole",
+                "Slip-on design with elastic laces"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "TrailMaster Hiking Boots",
+            "brand": "TrekPro",
+            "price": 149.99,
+            "color": ["Brown", "Green"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+            "gender": "Unisex",
+            "type": "Hiking Boots",
+            "rating": 4.9,
+            "review": 168,
+            "bestFor": ["Hiking", "Outdoor Adventures"],
+            "features": [
+                "Waterproof suede and mesh upper",
+                "Padded collar and tongue",
+                "Aggressive rubber outsole for traction",
+                "Protective toe cap",
+                "Lace-up closure with metal eyelets"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "ZoomFit Cross Training Shoes",
+            "brand": "AthloFit",
+            "price": 109.99,
+            "color": ["Black", "Blue", "Yellow"],
+            "sizes": ["US 7", "US 8", "US 9", "US 10", "US 11"],
+            "gender": "Unisex",
+            "type": "Cross Training Shoes",
+            "rating": 4.5,
+            "review": 192,
+            "bestFor": ["Gym Workouts", "Interval Training"],
+            "features": [
+                "Lightweight and supportive design",
+                "Responsive cushioning",
+                "Flexible outsole",
+                "Breathable mesh upper",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "NeoWalk Casual Sneakers",
+            "brand": "UrbanStride",
+            "price": 64.99,
+            "color": ["Gray", "Olive", "Burgundy"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Casual Sneakers",
+            "rating": 4.3,
+            "review": 158,
+            "bestFor": ["Everyday Wear", "Casual Outfits"],
+            "features": [
+                "Canvas upper with stitching details",
+                "Memory foam insole",
+                "Vulcanized rubber sole",
+                "Low-top design",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "UltraGrip Snow Boots",
+            "brand": "SnowTech",
+            "price": 179.99,
+            "color": ["Black", "Gray"],
+            "sizes": ["US 7", "US 8", "US 9", "US 10"],
+            "gender": "Men",
+            "type": "Snow Boots",
+            "rating": 4.8,
+            "review": 132,
+            "bestFor": ["Winter Adventures", "Snowy Conditions"],
+            "features": [
+                "Waterproof leather and nylon upper",
+                "Insulated lining for warmth",
+                "Durable rubber outsole with deep lugs",
+                "Adjustable hook-and-loop closure",
+                "Faux fur collar"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "SwiftRun Athletic Shoes",
+            "brand": "VigorFit",
+            "price": 94.99,
+            "color": ["White", "Blue", "Orange"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+            "gender": "Men",
+            "type": "Athletic Shoes",
+            "rating": 4.6,
+            "review": 231,
+            "bestFor": ["Casual Sports", "Active Lifestyle"],
+            "features": [
+                "Lightweight knit upper",
+                "Responsive cushioning",
+                "Flexible EVA midsole",
+                "Durable rubber outsole",
+                "Sock-like construction"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "RetroChic High-Top Sneakers",
+            "brand": "RetroStyle",
+            "price": 79.99,
+            "color": ["Black", "White", "Red"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "High-Top Sneakers",
+            "rating": 4.7,
+            "review": 185,
+            "bestFor": ["Street Fashion", "Urban Wear"],
+            "features": [
+                "Leather and suede upper",
+                "Padded high collar",
+                "Cushioned insole",
+                "Vulcanized rubber sole",
+                "Lace-up closure with hook-and-loop strap"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "TrekVenture Hiking Sandals",
+            "brand": "TrailBlaze",
+            "price": 89.99,
+            "color": ["Gray", "Olive"],
+            "sizes": ["US 7", "US 8", "US 9", "US 10", "US 11"],
+            "gender": "Unisex",
+            "type": "Hiking Sandals",
+            "rating": 4.4,
+            "review": 132,
+            "bestFor": ["Hiking", "Outdoor Adventures"],
+            "features": [
+                "Durable synthetic straps",
+                "Adjustable hook-and-loop closures",
+                "Cushioned footbed with arch support",
+                "Shock-absorbing midsole",
+                "Lugged rubber outsole"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "PowerFlex Gym Shoes",
+            "brand": "FlexFit",
+            "price": 74.99,
+            "color": ["Black", "Gray", "Green"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11"],
+            "gender": "Men",
+            "type": "Gym Shoes",
+            "rating": 4.5,
+            "review": 192,
+            "bestFor": ["Weightlifting", "Gym Workouts"],
+            "features": [
+                "Durable synthetic and mesh upper",
+                "Supportive TPU overlays",
+                "Cushioned insole",
+                "Flexible rubber outsole",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "CloudWalk Casual Loafers",
+            "brand": "Elegance",
+            "price": 89.99,
+            "color": ["Brown", "Black"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Casual Loafers",
+            "rating": 4.3,
+            "review": 148,
+            "bestFor": ["Casual Wear", "Office Attire"],
+            "features": [
+                "Faux leather upper",
+                "Metal bit detail",
+                "Cushioned footbed",
+                "Low heel",
+                "Slip-on design"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "AquaticAdventure Water Shoes",
+            "brand": "AquaZone",
+            "price": 54.99,
+            "color": ["Blue", "Turquoise"],
+            "sizes": ["US 7", "US 8", "US 9", "US 10"],
+            "gender": "Unisex",
+            "type": "Water Shoes",
+            "rating": 4.7,
+            "review": 121,
+            "bestFor": ["Beach Activities", "Water Sports"],
+            "features": [
+                "Quick-drying and breathable mesh upper",
+                "Protective toe guard",
+                "Drainage holes",
+                "Non-slip rubber sole",
+                "Slip-on style with adjustable strap"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "UrbanSprint Running Shoes",
+            "brand": "CityFit",
+            "price": 109.99,
+            "color": ["Black", "Gray", "Red"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+            "gender": "Men",
+            "type": "Running Shoes",
+            "rating": 4.8,
+            "review": 215,
+            "bestFor": ["City Running", "Fitness"],
+            "features": [
+                "Breathable knit upper",
+                "Responsive cushioning",
+                "Durable rubber outsole",
+                "Reflective accents",
+                "Sock-like fit",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "ComfyStride Slip-On Sneakers",
+            "brand": "EaseWalk",
+            "price": 69.99,
+            "color": ["Navy", "Gray", "Beige"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Slip-On Sneakers",
+            "rating": 4.6,
+            "review": 177,
+            "bestFor": ["Casual Wear", "Easy Outfits"],
+            "features": [
+                "Stretch knit upper for easy slip-on",
+                "Memory foam insole",
+                "Flexible and lightweight",
+                "Textured sole for grip",
+                "Elastic collar"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "AlpineTrack Hiking Boots",
+            "brand": "PeakExplorer",
+            "price": 159.99,
+            "color": ["Brown", "Green"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+            "gender": "Unisex",
+            "type": "Hiking Boots",
+            "rating": 4.9,
+            "review": 148,
+            "bestFor": ["Hiking", "Mountain Terrain"],
+            "features": [
+                "Waterproof leather upper",
+                "Padded collar and tongue",
+                "Vibram rubber outsole for traction",
+                "Toe and heel protection",
+                "Lace-up closure with metal hooks"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "EcoStride Vegan Sneakers",
+            "brand": "GreenStep",
+            "price": 79.99,
+            "color": ["Gray", "White", "Olive"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11"],
+            "gender": "Unisex",
+            "type": "Casual Sneakers",
+            "rating": 4.7,
+            "review": 135,
+            "bestFor": ["Eco-conscious Fashion", "Casual Wear"],
+            "features": [
+                "Vegan leather upper",
+                "Recycled materials",
+                "Cushioned insole",
+                "Flexible rubber sole",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "ProRun Marathon Shoes",
+            "brand": "MarathonMasters",
+            "price": 139.99,
+            "color": ["Black", "Red", "Yellow"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+            "gender": "Men",
+            "type": "Marathon Shoes",
+            "rating": 4.9,
+            "review": 182,
+            "bestFor": ["Long Distance Running", "Race Training"],
+            "features": [
+                "Lightweight design",
+                "Carbon fiber plate for energy return",
+                "Responsive cushioning",
+                "Breathable mesh upper",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "GlamourGlide Evening Heels",
+            "brand": "Elegance",
+            "price": 109.99,
+            "color": ["Black", "Silver", "Gold"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Evening Heels",
+            "rating": 4.5,
+            "review": 148,
+            "bestFor": ["Formal Events", "Evening Outfits"],
+            "features": [
+                "Shiny faux leather upper",
+                "High stiletto heel",
+                "Cushioned insole",
+                "Pointed toe",
+                "Slip-on style"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "RuggedTrail Outdoor Sandals",
+            "brand": "OutVenture",
+            "price": 84.99,
+            "color": ["Brown", "Green"],
+            "sizes": ["US 7", "US 8", "US 9", "US 10"],
+            "gender": "Unisex",
+            "type": "Outdoor Sandals",
+            "rating": 4.6,
+            "review": 112,
+            "bestFor": ["Hiking", "Water Activities"],
+            "features": [
+                "Durable synthetic straps",
+                "Adjustable hook-and-loop closures",
+                "Cushioned footbed with arch support",
+                "Shock-absorbing midsole",
+                "Lugged rubber outsole"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "TechStride Running Shoes",
+            "brand": "TechRun",
+            "price": 119.99,
+            "color": ["Black", "Gray", "Blue"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+            "gender": "Men",
+            "type": "Running Shoes",
+            "rating": 4.8,
+            "review": 207,
+            "bestFor": ["Running", "Training"],
+            "features": [
+                "Breathable mesh upper",
+                "Cushioned midsole with tech-enhanced support",
+                "Durable rubber outsole",
+                "Reflective accents",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "CasualChic Slip-On Loafers",
+            "brand": "ChicStyle",
+            "price": 74.99,
+            "color": ["Black", "Beige", "Navy"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Slip-On Loafers",
+            "rating": 4.5,
+            "review": 169,
+            "bestFor": ["Casual Wear", "Office Attire"],
+            "features": [
+                "Faux leather upper",
+                "Metal bit detail",
+                "Cushioned footbed",
+                "Low heel",
+                "Slip-on design"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "FlexComfort Slip-On Sneakers",
+            "brand": "ComfyFeet",
+            "price": 69.99,
+            "color": ["Gray", "Black", "Blue"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11"],
+            "gender": "Men",
+            "type": "Slip-On Sneakers",
+            "rating": 4.6,
+            "review": 148,
+            "bestFor": ["Casual Wear", "Easy Outfits"],
+            "features": [
+                "Flexible knit upper",
+                "Memory foam insole",
+                "Lightweight construction",
+                "Textured sole for grip",
+                "Elastic collar",
+                "Slip-on design"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "EcoStep Sustainable Sneakers",
+            "brand": "EcoStride",
+            "price": 79.99,
+            "color": ["Green", "Gray", "Beige"],
+            "sizes": ["US 7", "US 8", "US 9", "US 10"],
+            "gender": "Women",
+            "type": "Casual Sneakers",
+            "rating": 4.7,
+            "review": 135,
+            "bestFor": ["Eco-conscious Fashion", "Casual Wear"],
+            "features": [
+                "Recycled materials",
+                "Vegan leather upper",
+                "Cushioned insole",
+                "Flexible rubber sole",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "AllTerrain Trail Shoes",
+            "brand": "TrailMaster",
+            "price": 129.99,
+            "color": ["Brown", "Black", "Orange"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+            "gender": "Unisex",
+            "type": "Trail Shoes",
+            "rating": 4.9,
+            "review": 164,
+            "bestFor": ["Hiking", "Trail Running"],
+            "features": [
+                "Durable mesh and synthetic upper",
+                "Aggressive outsole with deep lugs",
+                "Toe and heel protection",
+                "Cushioned midsole",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "UrbanSleek Chelsea Boots",
+            "brand": "CityStyle",
+            "price": 109.99,
+            "color": ["Black", "Brown"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Chelsea Boots",
+            "rating": 4.5,
+            "review": 182,
+            "bestFor": ["Casual Wear", "Stylish Outfits"],
+            "features": [
+                "Sleek faux leather upper",
+                "Elastic side panels",
+                "Pull tab for easy on and off",
+                "Low stacked heel",
+                "Slip-on style"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "RapidFlex Running Shoes",
+            "brand": "SpeedRun",
+            "price": 99.99,
+            "color": ["Black", "Gray", "Blue"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11"],
+            "gender": "Men",
+            "type": "Running Shoes",
+            "rating": 4.7,
+            "review": 189,
+            "bestFor": ["Running", "Fitness"],
+            "features": [
+                "Lightweight mesh upper",
+                "Responsive cushioning",
+                "Flexible EVA midsole",
+                "Durable rubber outsole",
+                "Reflective accents",
+                "Lace-up closure"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "ChicCharm Ballet Flats",
+            "brand": "Elegance",
+            "price": 59.99,
+            "color": ["Black", "Nude", "Silver"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Ballet Flats",
+            "rating": 4.6,
+            "review": 172,
+            "bestFor": ["Casual Wear", "Elegant Look"],
+            "features": [
+                "Faux leather upper",
+                "Bow detail",
+                "Cushioned insole",
+                "Flexible sole",
+                "Slip-on style"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "TrailBlaze Outdoor Sandals",
+            "brand": "TrekTech",
+            "price": 79.99,
+            "color": ["Gray", "Blue"],
+            "sizes": ["US 7", "US 8", "US 9", "US 10"],
+            "gender": "Unisex",
+            "type": "Outdoor Sandals",
+            "rating": 4.5,
+            "review": 128,
+            "bestFor": ["Hiking", "Water Activities"],
+            "features": [
+                "Durable synthetic straps",
+                "Adjustable hook-and-loop closures",
+                "Cushioned footbed with arch support",
+                "Shock-absorbing midsole",
+                "Lugged rubber outsole"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "ActiveMove Slip-On Sneakers",
+            "brand": "MoveEasy",
+            "price": 69.99,
+            "color": ["Gray", "Black", "Navy"],
+            "sizes": ["US 8", "US 9", "US 10", "US 11"],
+            "gender": "Men",
+            "type": "Slip-On Sneakers",
+            "rating": 4.4,
+            "review": 157,
+            "bestFor": ["Casual Wear", "Light Activities"],
+            "features": [
+                "Flexible knit upper",
+                "Memory foam insole",
+                "Lightweight construction",
+                "Textured sole for grip",
+                "Elastic collar",
+                "Slip-on design"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "ElegantGlow Evening Pumps",
+            "brand": "Elegance",
+            "price": 119.99,
+            "color": ["Black", "Gold", "Silver"],
+            "sizes": ["US 6", "US 7", "US 8", "US 9"],
+            "gender": "Women",
+            "type": "Evening Pumps",
+            "rating": 4.7,
+            "review": 198,
+            "bestFor": ["Formal Events", "Elegant Occasions"],
+            "features": [
+                "Shiny satin upper",
+                "Crystal embellishments",
+                "High heel with platform",
+                "Cushioned insole",
+                "Pointed toe",
+                "Slip-on style"
+            ]
+        }
+    ]
+}
